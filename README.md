@@ -1,1 +1,2 @@
-# aaa-final-project
+# Финальный проект по курсу Python AAA
+
